@@ -1,0 +1,5 @@
+.white_content {  width:auto !important; height:auto !important; display: none;  position: absolute;  top: 15%;  left: 15%;  width: 50%;  height: 50%;  padding: 16px;  border: 5px solid orange;  background-color: white;  z-index:1002;  overflow: auto;  }  
+.pinktable{
+	border: 1px solid black;
+	border-collapse : collapse;
+}
